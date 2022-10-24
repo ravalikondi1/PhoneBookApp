@@ -1,7 +1,7 @@
 # PhoneBookApp
 
 # About
-PhoneBook is .NET CORE application which is have frontend developed on ReactJS.
+PhoneBook is .NET CORE application which is having frontend developed on ReactJS.
 
 # Prerequisites
 1. Microsoft Visual Studio 2017 (.NET CORE)
